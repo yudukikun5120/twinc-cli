@@ -1,0 +1,9 @@
+{
+  "include": ["./src/*"],
+  "extends": "@tsconfig/recommended/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "resolveJsonModule": true
+  }
+}
