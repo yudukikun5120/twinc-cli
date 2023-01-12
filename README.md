@@ -1,13 +1,19 @@
 # twinc-cli
 
-Command-line interface for TwinC.
-
 This package provides a command-line interface for [TwinC](https://mimori256.github.io/twinc/).
 
 ## Installation
 
+### npm
+
 ```bash
 npm install -g twinc-cli
+```
+
+### Yarn
+
+```bash
+yarn global add twinc-cli
 ```
 
 ## Usage
