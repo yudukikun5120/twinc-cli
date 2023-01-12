@@ -8,6 +8,9 @@
   "bin": {
     "twinc": "./dist/index.js"
   },
+  "files": [
+    "./dist"
+  ],
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc -w"
