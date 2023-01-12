@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Command-line interface for TwinC",
   "repository": "https://github.com/yudukikun5120/twinc-cli",
-  "author": "Yuzuki Arai <yudukikun5120@gmail.com>",
   "license": "GPL-3.0"
+  "author": "Yuzuki Arai <arai@yudukikun5120.me>",
 }
