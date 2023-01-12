@@ -8,4 +8,7 @@
   "bin": {
     "twinc": "./dist/index.js"
   },
+  "dependencies": {
+    "commander": "^9.5.0"
+  },
 }
