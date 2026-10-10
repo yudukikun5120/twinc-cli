@@ -16,7 +16,7 @@
     "build:watch": "tsc -w"
   },
   "dependencies": {
-    "commander": "^9.5.0"
+    "commander": "^15.0.0"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
